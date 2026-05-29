@@ -49,3 +49,5 @@ def ocloks(title:str="clock",blackground:str="black",foreground:str="white",w:in
     root.mainloop()
     runing=False
     time.sleep(3)
+
+ocloks(w=500,h=400)
